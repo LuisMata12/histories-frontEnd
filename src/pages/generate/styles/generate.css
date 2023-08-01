@@ -1,0 +1,10 @@
+.container-generate{
+    background: radial-gradient(#a8aff1e9, #ffffff);
+    width: 100%;
+    height: 100vh;
+    color: rgb(69, 68, 68);
+    font-family: 'Raleway', sans-serif;
+}
+.form-generate{
+    background-color: #fff;
+}
